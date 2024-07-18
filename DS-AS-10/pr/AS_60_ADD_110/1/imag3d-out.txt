@@ -31,7 +31,7 @@ Initial state: Gaussian
 ADD_VORTICES = 0, ADD_RANDOM_PHASE = 0
 
 
-MUREL = 1.000000e-08, MUEND=0.000000e+00
+MUREL = 1.000000e-10, MUEND=0.000000e+00
 
 -------------------------------------------------------------------
 Snap      Na             QD             mu             <r>
@@ -49,8 +49,12 @@ Snap      Na             QD             mu             <r>
 10        1.50000000000e+05   0.000000e+00   -2.099418e+01  1.374941e+01  
 11        1.50000000000e+05   0.000000e+00   -2.099418e+01  1.374940e+01  
 12        1.50000000000e+05   0.000000e+00   -2.099418e+01  1.374940e+01  
+13        1.50000000000e+05   0.000000e+00   -2.099418e+01  1.374940e+01  
+14        1.50000000000e+05   0.000000e+00   -2.099418e+01  1.374940e+01  
+15        1.50000000000e+05   0.000000e+00   -2.099418e+01  1.374940e+01  
+16        1.50000000000e+05   0.000000e+00   -2.099418e+01  1.374940e+01  
 -------------------------------------------------------------------
 
-Initialization/allocation wall-clock time: 2.767 seconds
-Calculation (iterations) wall-clock time : 195.889 seconds
+Initialization/allocation wall-clock time: 2.991 seconds
+Calculation (iterations) wall-clock time : 196.244 seconds
 
